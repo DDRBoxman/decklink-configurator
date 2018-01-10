@@ -1,0 +1,1 @@
+Built on top of https://github.com/euler0/mini-cmake-qt
